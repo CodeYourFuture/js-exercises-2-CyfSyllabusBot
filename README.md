@@ -2,6 +2,8 @@
 
 ## Before you start
 
+Trying to update something
+
 First step is to `fork` this repo to your account, then `clone` it locally.
 
 After you do that, `add a remote` to point to CodeYourFuture repo, that will allow you to update you forked copy when we update the repo with more exercises.
